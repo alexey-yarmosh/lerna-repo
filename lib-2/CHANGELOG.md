@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.1](https://github.com/aliaksei-yarmash/lerna-repo/compare/lib-2@1.3.0...lib-2@1.3.1) (2022-04-27)
+
+
+### Bug Fixes
+
+* fix lib 2 ([83f3809](https://github.com/aliaksei-yarmash/lerna-repo/commit/83f3809ed4e584e3354bbc149d1d5567900c104e))
+
+
+
+
+
 # [1.3.0](https://github.com/aliaksei-yarmash/lerna-repo/compare/lib-2@1.2.2...lib-2@1.3.0) (2022-04-27)
 
 
